@@ -1,0 +1,2 @@
+# Self Driving Car
+ This project is created using neural network and JavaScript with no libraries. In this Project you will learn to make a self-driving car simulation by implementing every component step-by-step. You will learn how to implement the car driving mechanics, how to define the environment, how to simulate some sensors, how to detect collisions, and how to make the car control itself using a neural network.
